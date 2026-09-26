@@ -1,0 +1,6 @@
+{
+  "name": "PHARMACY ERP — Smart Vendor Restocking & Bargaining Agent",
+  "description": "Enterprise pharmacy procurement platform powered by an intelligent Restocking & Bargaining AI Agent with dynamic vendor negotiation, deal evaluation, and automated ERP write-back.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
